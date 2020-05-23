@@ -2,7 +2,7 @@
 
 
 
-# APP LOGIN and register with jwt 
+# LOGIN & register app with jwt by laravel lumen and angular  
 
 
 ## Installation Skwiq front
